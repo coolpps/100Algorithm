@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51.求和为n连续整数序列", "51.求和为n连续整数序列\51.求和为n连续整数序列.vcxproj", "{0D3EC9BE-540A-4ACB-9520-F0009802F06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3EC9BE-540A-4ACB-9520-F0009802F06A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D3EC9BE-540A-4ACB-9520-F0009802F06A}.Debug|Win32.Build.0 = Debug|Win32
+		{0D3EC9BE-540A-4ACB-9520-F0009802F06A}.Release|Win32.ActiveCfg = Release|Win32
+		{0D3EC9BE-540A-4ACB-9520-F0009802F06A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

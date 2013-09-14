@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "约瑟夫链表", "约瑟夫链表\约瑟夫链表.vcxproj", "{878A63FC-DE7F-4EBC-A61A-0F8AE4221633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878A63FC-DE7F-4EBC-A61A-0F8AE4221633}.Debug|Win32.ActiveCfg = Debug|Win32
+		{878A63FC-DE7F-4EBC-A61A-0F8AE4221633}.Debug|Win32.Build.0 = Debug|Win32
+		{878A63FC-DE7F-4EBC-A61A-0F8AE4221633}.Release|Win32.ActiveCfg = Release|Win32
+		{878A63FC-DE7F-4EBC-A61A-0F8AE4221633}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

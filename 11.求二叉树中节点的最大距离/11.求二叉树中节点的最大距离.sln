@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.求二叉树中节点的最大距离", "11.求二叉树中节点的最大距离\11.求二叉树中节点的最大距离.vcxproj", "{04FAE7A8-A202-4B14-A5FE-8E457DD211FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FAE7A8-A202-4B14-A5FE-8E457DD211FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04FAE7A8-A202-4B14-A5FE-8E457DD211FD}.Debug|Win32.Build.0 = Debug|Win32
+		{04FAE7A8-A202-4B14-A5FE-8E457DD211FD}.Release|Win32.ActiveCfg = Release|Win32
+		{04FAE7A8-A202-4B14-A5FE-8E457DD211FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

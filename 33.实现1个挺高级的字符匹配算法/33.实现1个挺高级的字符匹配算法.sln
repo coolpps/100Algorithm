@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "33.实现1个挺高级的字符匹配算法", "33.实现1个挺高级的字符匹配算法\33.实现1个挺高级的字符匹配算法.vcxproj", "{F6282DB2-2037-4998-80AC-0E0D3C0FFD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6282DB2-2037-4998-80AC-0E0D3C0FFD31}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6282DB2-2037-4998-80AC-0E0D3C0FFD31}.Debug|Win32.Build.0 = Debug|Win32
+		{F6282DB2-2037-4998-80AC-0E0D3C0FFD31}.Release|Win32.ActiveCfg = Release|Win32
+		{F6282DB2-2037-4998-80AC-0E0D3C0FFD31}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

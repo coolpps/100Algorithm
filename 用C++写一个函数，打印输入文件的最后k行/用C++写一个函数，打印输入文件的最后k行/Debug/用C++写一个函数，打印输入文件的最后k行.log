@@ -1,0 +1,31 @@
+﻿生成启动时间为 2013/9/11 19:51:53。
+     1>项目“C:\微软100\用C++写一个函数，打印输入文件的最后k行\用C++写一个函数，打印输入文件的最后k行\用C++写一个函数，打印输入文件的最后k行.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\用C++写一个函数，打印输入文件的最后k行.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\用C++写一个函数，打印输入文件的最后k行.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "用C++写一个函数，打印输入文件的最后k行.cpp"
+         用C++写一个函数，打印输入文件的最后k行.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\fstream(890): error C2248: “std::basic_ios<_Elem,_Traits>::basic_ios”: 无法访问 private 成员(在“std::basic_ios<_Elem,_Traits>”类中声明)
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ios(176) : 参见“std::basic_ios<_Elem,_Traits>::basic_ios”的声明
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 此诊断出现在编译器生成的函数“std::basic_ifstream<_Elem,_Traits>::basic_ifstream(const std::basic_ifstream<_Elem,_Traits> &)”中
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>已完成生成项目“C:\微软100\用C++写一个函数，打印输入文件的最后k行\用C++写一个函数，打印输入文件的最后k行\用C++写一个函数，打印输入文件的最后k行.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.56

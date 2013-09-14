@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "69.求1个旋转数组的最小值", "69.求1个旋转数组的最小值\69.求1个旋转数组的最小值.vcxproj", "{E26F035F-7C20-4176-AA59-7856CA8B4C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26F035F-7C20-4176-AA59-7856CA8B4C83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E26F035F-7C20-4176-AA59-7856CA8B4C83}.Debug|Win32.Build.0 = Debug|Win32
+		{E26F035F-7C20-4176-AA59-7856CA8B4C83}.Release|Win32.ActiveCfg = Release|Win32
+		{E26F035F-7C20-4176-AA59-7856CA8B4C83}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

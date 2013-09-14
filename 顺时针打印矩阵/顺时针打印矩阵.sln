@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "顺时针打印矩阵", "顺时针打印矩阵\顺时针打印矩阵.vcxproj", "{F104C518-D47F-4E5C-B5AD-7942D93FE135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F104C518-D47F-4E5C-B5AD-7942D93FE135}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F104C518-D47F-4E5C-B5AD-7942D93FE135}.Debug|Win32.Build.0 = Debug|Win32
+		{F104C518-D47F-4E5C-B5AD-7942D93FE135}.Release|Win32.ActiveCfg = Release|Win32
+		{F104C518-D47F-4E5C-B5AD-7942D93FE135}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

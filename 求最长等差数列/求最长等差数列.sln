@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求最长等差数列", "求最长等差数列\求最长等差数列.vcxproj", "{B9F2D001-4C13-46B9-B5D8-76CBCC10642F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F2D001-4C13-46B9-B5D8-76CBCC10642F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9F2D001-4C13-46B9-B5D8-76CBCC10642F}.Debug|Win32.Build.0 = Debug|Win32
+		{B9F2D001-4C13-46B9-B5D8-76CBCC10642F}.Release|Win32.ActiveCfg = Release|Win32
+		{B9F2D001-4C13-46B9-B5D8-76CBCC10642F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

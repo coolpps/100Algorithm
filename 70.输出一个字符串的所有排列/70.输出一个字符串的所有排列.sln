@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "70.输出一个字符串的所有排列", "70.输出一个字符串的所有排列\70.输出一个字符串的所有排列.vcxproj", "{3B5F9F72-E05B-4263-8410-304662BDF3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5F9F72-E05B-4263-8410-304662BDF3A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B5F9F72-E05B-4263-8410-304662BDF3A2}.Debug|Win32.Build.0 = Debug|Win32
+		{3B5F9F72-E05B-4263-8410-304662BDF3A2}.Release|Win32.ActiveCfg = Release|Win32
+		{3B5F9F72-E05B-4263-8410-304662BDF3A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

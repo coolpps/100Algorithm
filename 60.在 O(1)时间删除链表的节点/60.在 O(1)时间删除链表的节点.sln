@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "60.在 O(1)时间删除链表的节点", "60.在 O(1)时间删除链表的节点\60.在 O(1)时间删除链表的节点.vcxproj", "{120EFC49-818C-472A-8C91-4FF1DA82AEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120EFC49-818C-472A-8C91-4FF1DA82AEAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{120EFC49-818C-472A-8C91-4FF1DA82AEAF}.Debug|Win32.Build.0 = Debug|Win32
+		{120EFC49-818C-472A-8C91-4FF1DA82AEAF}.Release|Win32.ActiveCfg = Release|Win32
+		{120EFC49-818C-472A-8C91-4FF1DA82AEAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

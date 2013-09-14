@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "81.求这样1个数组，左边的数都小于等于它，右边的数都大于等于它", "81.求这样1个数组，左边的数都小于等于它，右边的数都大于等于它\81.求这样1个数组，左边的数都小于等于它，右边的数都大于等于它.vcxproj", "{27FEE237-3B94-4210-8AB4-A79150EDAE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FEE237-3B94-4210-8AB4-A79150EDAE26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27FEE237-3B94-4210-8AB4-A79150EDAE26}.Debug|Win32.Build.0 = Debug|Win32
+		{27FEE237-3B94-4210-8AB4-A79150EDAE26}.Release|Win32.ActiveCfg = Release|Win32
+		{27FEE237-3B94-4210-8AB4-A79150EDAE26}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

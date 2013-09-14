@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题39 判断是不是平衡二叉树", "面试题39 判断是不是平衡二叉树\面试题39 判断是不是平衡二叉树.vcxproj", "{D8475261-3BA1-40B6-B4A4-C4830D51CB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8475261-3BA1-40B6-B4A4-C4830D51CB09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8475261-3BA1-40B6-B4A4-C4830D51CB09}.Debug|Win32.Build.0 = Debug|Win32
+		{D8475261-3BA1-40B6-B4A4-C4830D51CB09}.Release|Win32.ActiveCfg = Release|Win32
+		{D8475261-3BA1-40B6-B4A4-C4830D51CB09}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

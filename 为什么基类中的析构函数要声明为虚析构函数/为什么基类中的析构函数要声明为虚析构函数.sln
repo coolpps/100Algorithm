@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "为什么基类中的析构函数要声明为虚析构函数", "为什么基类中的析构函数要声明为虚析构函数\为什么基类中的析构函数要声明为虚析构函数.vcxproj", "{C4329CC6-F05B-45BD-B06E-9CE225C7A4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4329CC6-F05B-45BD-B06E-9CE225C7A4BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4329CC6-F05B-45BD-B06E-9CE225C7A4BD}.Debug|Win32.Build.0 = Debug|Win32
+		{C4329CC6-F05B-45BD-B06E-9CE225C7A4BD}.Release|Win32.ActiveCfg = Release|Win32
+		{C4329CC6-F05B-45BD-B06E-9CE225C7A4BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

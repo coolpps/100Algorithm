@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "不用加减惩处做运算", "不用加减惩处做运算\不用加减惩处做运算.vcxproj", "{22F92E9E-06A6-453C-8FEA-B556D24E090B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F92E9E-06A6-453C-8FEA-B556D24E090B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22F92E9E-06A6-453C-8FEA-B556D24E090B}.Debug|Win32.Build.0 = Debug|Win32
+		{22F92E9E-06A6-453C-8FEA-B556D24E090B}.Release|Win32.ActiveCfg = Release|Win32
+		{22F92E9E-06A6-453C-8FEA-B556D24E090B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

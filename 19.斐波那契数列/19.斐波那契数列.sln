@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.斐波那契数列", "19.斐波那契数列\19.斐波那契数列.vcxproj", "{4FBF7BC2-793C-406E-B6A6-7D392D3BAF6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBF7BC2-793C-406E-B6A6-7D392D3BAF6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FBF7BC2-793C-406E-B6A6-7D392D3BAF6F}.Debug|Win32.Build.0 = Debug|Win32
+		{4FBF7BC2-793C-406E-B6A6-7D392D3BAF6F}.Release|Win32.ActiveCfg = Release|Win32
+		{4FBF7BC2-793C-406E-B6A6-7D392D3BAF6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

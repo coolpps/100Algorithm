@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21.输入2个整数n和m，求和为m的任意n序列", "21.输入2个整数n和m，求和为m的任意n序列\21.输入2个整数n和m，求和为m的任意n序列.vcxproj", "{15B88066-5EFF-4E8C-A425-86FBAB45D1B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B88066-5EFF-4E8C-A425-86FBAB45D1B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15B88066-5EFF-4E8C-A425-86FBAB45D1B4}.Debug|Win32.Build.0 = Debug|Win32
+		{15B88066-5EFF-4E8C-A425-86FBAB45D1B4}.Release|Win32.ActiveCfg = Release|Win32
+		{15B88066-5EFF-4E8C-A425-86FBAB45D1B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

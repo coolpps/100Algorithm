@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "67.所有和为n的m个筛子组合", "67.所有和为n的m个筛子组合\67.所有和为n的m个筛子组合.vcxproj", "{5BFBD584-BCD7-4607-8903-20B4CE7E6809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFBD584-BCD7-4607-8903-20B4CE7E6809}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BFBD584-BCD7-4607-8903-20B4CE7E6809}.Debug|Win32.Build.0 = Debug|Win32
+		{5BFBD584-BCD7-4607-8903-20B4CE7E6809}.Release|Win32.ActiveCfg = Release|Win32
+		{5BFBD584-BCD7-4607-8903-20B4CE7E6809}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

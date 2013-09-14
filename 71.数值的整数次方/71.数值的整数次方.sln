@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "71.数值的整数次方", "71.数值的整数次方\71.数值的整数次方.vcxproj", "{5FB1BE93-396A-4E42-B512-8B3B26562035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB1BE93-396A-4E42-B512-8B3B26562035}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FB1BE93-396A-4E42-B512-8B3B26562035}.Debug|Win32.Build.0 = Debug|Win32
+		{5FB1BE93-396A-4E42-B512-8B3B26562035}.Release|Win32.ActiveCfg = Release|Win32
+		{5FB1BE93-396A-4E42-B512-8B3B26562035}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

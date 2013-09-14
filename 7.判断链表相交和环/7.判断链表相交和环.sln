@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.判断链表相交和环", "7.判断链表相交和环\7.判断链表相交和环.vcxproj", "{BDB09770-22E0-4673-B41A-EB9B063E0151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB09770-22E0-4673-B41A-EB9B063E0151}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDB09770-22E0-4673-B41A-EB9B063E0151}.Debug|Win32.Build.0 = Debug|Win32
+		{BDB09770-22E0-4673-B41A-EB9B063E0151}.Release|Win32.ActiveCfg = Release|Win32
+		{BDB09770-22E0-4673-B41A-EB9B063E0151}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

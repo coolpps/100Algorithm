@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "52.求树的深度", "52.求树的深度\52.求树的深度.vcxproj", "{A99FA0BC-0EC5-4E28-BEB1-85DCB7BB8778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99FA0BC-0EC5-4E28-BEB1-85DCB7BB8778}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A99FA0BC-0EC5-4E28-BEB1-85DCB7BB8778}.Debug|Win32.Build.0 = Debug|Win32
+		{A99FA0BC-0EC5-4E28-BEB1-85DCB7BB8778}.Release|Win32.ActiveCfg = Release|Win32
+		{A99FA0BC-0EC5-4E28-BEB1-85DCB7BB8778}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

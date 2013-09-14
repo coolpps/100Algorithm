@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "旋转数组的最小数字", "旋转数组的最小数字\旋转数组的最小数字.vcxproj", "{FD140EFD-7D65-4829-894A-66E5DCC26369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD140EFD-7D65-4829-894A-66E5DCC26369}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD140EFD-7D65-4829-894A-66E5DCC26369}.Debug|Win32.Build.0 = Debug|Win32
+		{FD140EFD-7D65-4829-894A-66E5DCC26369}.Release|Win32.ActiveCfg = Release|Win32
+		{FD140EFD-7D65-4829-894A-66E5DCC26369}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
